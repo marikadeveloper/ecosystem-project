@@ -1,4 +1,4 @@
-# Ecosystem Project
+# Ecosystem Project 🌱🐞
 
 This is the Ecosystem Project from the book "The Nature of Code" by Daniel Shiffman. 
 I will develop a set of rules for simulating the real-world behavior of a creature, building on top of principles from the random walk or other noise-driven motions. 
