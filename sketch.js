@@ -5,8 +5,8 @@
 let insect;
 
 function setup() {
-  createCanvas(640, 640); // creating canvas of size 640 x 240
-  insect = new Insect(); // creating an instance/object of class Insect
+  createCanvas(640, 640);
+  insect = new Insect();
   background(255);
 }
 
